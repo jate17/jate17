@@ -1,7 +1,7 @@
 
-<h1 align="center">Jate is busy</h1>
+<h1 align="center">Jate is bored</h1>
 
----
+
 
 
 ## 📊 GitHub Statistics
